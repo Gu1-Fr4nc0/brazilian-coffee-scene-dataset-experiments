@@ -48,7 +48,7 @@ Os resultados confirmam que a fusão de dados é estatisticamente superior às a
 
 1.  Clone o repositório.
 2.  Instale as dependências: `pip install -r requirements.txt`.
-3.  Baixe o [Brazilian Coffee Scenes Dataset](https://www.kaggle.com/datasets/giovannimeloni/brazilian-coffee-scenes-dataset) e coloque-o na raiz.
+3.  Baixe o [Brazilian Coffee Scenes Dataset](https://www.kaggle.com/datasets/mdgilo/barazilian-coffee-scenes) e coloque-o na raiz.
 4.  Execute a esteira de processamento:
     ```bash
     python scripts/
